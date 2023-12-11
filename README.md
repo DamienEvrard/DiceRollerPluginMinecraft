@@ -41,8 +41,5 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 - /roll 3d6 +1            > Lance 3 dé 6 avec un bonus de 1 au premier jet.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/aa9cb105-d2b8-47ef-a3af-83ee3dd0c371)
 
-
-
-
-
-
+- /roll 2d12 global       > Lance 2 dé 12 et le message sera donc envoyé à tous les joueurs.
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/2403def7-8f30-41f7-8a8e-8b80c964aa6b)
