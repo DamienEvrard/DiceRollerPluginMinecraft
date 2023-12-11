@@ -19,7 +19,7 @@ Les echecs critique sont toujour à 1 et les succes critique sont toujours à 20
 Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui ci sera appliqué uniquement sur le premier jet sauf en cas d'echec ou succes critique. 
 
 
-exemples d'utilisation:
+\_exemples d'utilisation:\_
 
 - /roll 1d20              Lance 1 dé 20.
 - /roll 1d20 5            Lance 1 dé 20 avec un bonus de 5.
