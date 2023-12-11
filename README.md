@@ -8,8 +8,8 @@ Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancé
 
 /roll XdY [[+;-]Z] [global]
 
-- X >= 1 > nb de dé a lancer
-- Y >= 1 > nb face du dé     		        
+- X >= 1 > nombre de dé à lancer
+- Y >= 1 > nombreb face du dé     		        
 - Z = valeur libre > (Optionnel) bonus/malus à ajouter au jet
 - global > (Optionnel) rendre le message global
 
