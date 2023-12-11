@@ -1,10 +1,10 @@
-### Description
+## Description
 
 Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancés de dé dans minecraft 1.16.
 
 
 
-### Commande:
+## Commande:
 
 /roll XdY [[+;-]Z] [global]
 
