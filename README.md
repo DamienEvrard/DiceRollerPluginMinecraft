@@ -23,5 +23,5 @@ Exemples d'utilisation:
 
 - /roll 1d20‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Lance 1 dé 20.
 - /roll 1d20 5            Lance 1 dé 20 avec un bonus de 5.
-- /roll 1d12 -3 global    Lance 1 dé 12 avec un malus de 3 et le message sera donc envoyé à tous les joueurs.
+- /roll 1d12 -3 globalㅤㅤㅤㅤㅤㅤ\ \ Lance 1 dé 12 avec un malus de 3 et le message sera donc envoyé à tous les joueurs.
 - /roll 3d6 +1            Lance 3 dé 6 avec un bonus de 1 au premier jet.
