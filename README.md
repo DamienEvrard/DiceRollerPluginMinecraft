@@ -18,7 +18,7 @@ Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancé
 De base, le message du jet est envoyé à tous les joueurs dans les 30 block autour du joueur.
 L'option _global_ permet d'envoyer le message du roll à tous les joueurs connectés du serveur.
 
-Les echecs critique sont toujour à 1 et les succes critique sont toujours à 20.
+Les critiques (echec et succes) sont uniquement disponible lors de jet de dé 20.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/2a70fb64-2741-4d76-b0a0-051472657020)
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/66d81c15-b77f-40cb-86ad-5e27f7121ec3)
 
