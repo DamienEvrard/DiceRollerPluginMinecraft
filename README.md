@@ -1,4 +1,4 @@
-## Description
+## Description:
 
 Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancés de dé dans minecraft 1.16.
 
@@ -27,7 +27,7 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/92f8d5b1-7257-4c65-8484-6922545c39bb)
 
 
-Exemples d'utilisation:
+## Exemples d'utilisation:
 
 - /roll 1d20‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ > Lance 1 dé 20.\
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/35d6efef-edc2-4c3b-90e8-c54dadaa169f)
