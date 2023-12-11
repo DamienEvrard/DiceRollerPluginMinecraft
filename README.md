@@ -9,16 +9,16 @@ Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancé
 /roll XdY [[+;-]Z] [global]
 
 - X >= 1 > nombre de dé à lancer
-- Y >= 1 > nombreb face du dé     		        
+- Y >= 1 > nombre de face du dé     		        
 - Z = valeur libre > (Optionnel) bonus/malus à ajouter au jet
 - global > (Optionnel) rendre le message global
 
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/afb32531-0e15-4c96-8eef-7d9f2a21cefd)
 
-De base, le message du jet est envoyé à tous les joueurs dans les 30 block autour du joueur.
+De base, le message du jet est envoyé à tous les joueurs dans les 30 blocks autour du joueur qui fait un jet.
 L'option _global_ permet d'envoyer le message du roll à tous les joueurs connectés du serveur.
 
-Les critiques (echec et succes) sont uniquement disponible lors de jet de dé 20.
+Les critiques (succes et echec) sont uniquement disponible lors de jet de dé 20.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/2a70fb64-2741-4d76-b0a0-051472657020)
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/66d81c15-b77f-40cb-86ad-5e27f7121ec3)
 
