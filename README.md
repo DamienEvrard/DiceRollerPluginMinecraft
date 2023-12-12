@@ -28,6 +28,7 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/dbdc4698-8bac-4162-b59a-edb147327455)
 
 
+
 ## Exemples d'utilisation:
 
 - /roll 1d20              > Lance 1 dé 20.\
@@ -44,3 +45,11 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 
 - /roll 2d12 global       > Lance 2 dé 12 et le message sera donc envoyé à tous les joueurs.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/795fbb7c-7bcc-4178-ab30-5f3118809c93)
+
+
+
+
+
+
+##Credit:
+[Say2Slay](https://github.com/Say2Slay)
