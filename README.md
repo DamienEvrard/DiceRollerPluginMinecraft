@@ -8,10 +8,10 @@ Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancé
 
 /roll XdY [[+;-]Z] [global]
 
-- X >= 1 > nombre de dé à lancer
-- Y >= 1 > nombre de face du dé     		        
+- X >= 1           > nombre de dé à lancer
+- Y >= 1           > nombre de face du dé     		        
 - Z = valeur libre > (Optionnel) bonus/malus à ajouter au jet
-- global > (Optionnel) rendre le message global
+- global           > (Optionnel) rendre le message global
 
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/53361037-ae61-45a4-a979-a6fe6d85058f)
 
@@ -39,7 +39,7 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 - /roll 3d6 +1            > Lance 3 dé 6 avec un bonus de 1 au premier jet.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/764ad5c2-242e-4538-a865-b3ee21c3ce1c)
 
-- /roll 1d12 -3 globalㅤㅤㅤㅤㅤㅤ    > Lance 1 dé 12 avec un malus de 3 et le message sera donc envoyé à tous les joueurs.
+- /roll 1d12 -3 global    > Lance 1 dé 12 avec un malus de 3 et le message sera donc envoyé à tous les joueurs.
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/438d40df-5e9f-4a22-b8ae-3fad3dbb6875)
 
 - /roll 2d12 global       > Lance 2 dé 12 et le message sera donc envoyé à tous les joueurs.
