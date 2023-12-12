@@ -19,26 +19,27 @@ De base, le message du jet est envoyé à tous les joueurs dans les 30 blocks au
 L'option _global_ permet d'envoyer le message du roll à tous les joueurs connectés du serveur.
 
 Les critiques (succes et echec) sont uniquement disponible lors de jet de dé 20.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/08d8b95e-4398-45ce-8c30-4e6b2838783e)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/3e0dd157-500a-4880-8854-b50d719d9d91)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/3e63e0f1-504e-4d3b-99f3-9bee8ca5059a)
 
 Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-ci sera appliqué uniquement sur le premier jet sauf en cas d'echec ou succes critique.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/4e1012a4-7b3d-49de-9998-b823bf8cfed1)
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/92f8d5b1-7257-4c65-8484-6922545c39bb)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/9822dad7-65be-4403-8426-7a7ba5aac222)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/dbdc4698-8bac-4162-b59a-edb147327455)
 
 
 ## Exemples d'utilisation:
 
 - /roll 1d20‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ > Lance 1 dé 20.\
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/35d6efef-edc2-4c3b-90e8-c54dadaa169f)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/6804b235-e709-4375-8b57-5e62c319c925)
 
 - /roll 1d20 5            > Lance 1 dé 20 avec un bonus de 5.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/28473eea-7688-4e67-b3f1-0579f794c175)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/8b3b4893-48be-4ab9-97d9-5412db708ab1)
+
+- /roll 3d6 +1            > Lance 3 dé 6 avec un bonus de 1 au premier jet.
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/764ad5c2-242e-4538-a865-b3ee21c3ce1c)
 
 - /roll 1d12 -3 globalㅤㅤㅤㅤㅤㅤ    > Lance 1 dé 12 avec un malus de 3 et le message sera donc envoyé à tous les joueurs.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/86bd52d4-be19-47c4-9338-30fa8ccd109c)
- 
-- /roll 3d6 +1            > Lance 3 dé 6 avec un bonus de 1 au premier jet.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/aa9cb105-d2b8-47ef-a3af-83ee3dd0c371)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/438d40df-5e9f-4a22-b8ae-3fad3dbb6875)
 
 - /roll 2d12 global       > Lance 2 dé 12 et le message sera donc envoyé à tous les joueurs.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/2403def7-8f30-41f7-8a8e-8b80c964aa6b)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/795fbb7c-7bcc-4178-ab30-5f3118809c93)
