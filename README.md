@@ -51,5 +51,5 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 
 
 
-## Credit:
+## Développé en collaboration avec:
 [Say2Slay](https://github.com/Say2Slay)
