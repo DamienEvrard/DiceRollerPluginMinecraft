@@ -30,7 +30,7 @@ Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-
 
 ## Exemples d'utilisation:
 
-- /roll 1d20‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ > Lance 1 dé 20.\
+- /roll 1d20              > Lance 1 dé 20.\
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/6804b235-e709-4375-8b57-5e62c319c925)
 
 - /roll 1d20 5            > Lance 1 dé 20 avec un bonus de 5.
