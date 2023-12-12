@@ -23,6 +23,7 @@ Les critiques (succes et echec) sont uniquement disponible lors de jet de dé 20
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/3e63e0f1-504e-4d3b-99f3-9bee8ca5059a)
 
 Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-ci sera appliqué uniquement sur le premier jet sauf en cas d'echec ou succes critique.
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/e85fe689-5932-4b12-9373-992c4fff77f5)
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/9822dad7-65be-4403-8426-7a7ba5aac222)
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/dbdc4698-8bac-4162-b59a-edb147327455)
 
