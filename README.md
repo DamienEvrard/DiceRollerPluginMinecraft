@@ -13,17 +13,16 @@ Ce plugin développé pour le jeu de role Etherion, permet de simuler des lancé
 - Z = valeur libre > (Optionnel) bonus/malus à ajouter au jet
 - global > (Optionnel) rendre le message global
 
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/afb32531-0e15-4c96-8eef-7d9f2a21cefd)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/53361037-ae61-45a4-a979-a6fe6d85058f)
 
 De base, le message du jet est envoyé à tous les joueurs dans les 30 blocks autour du joueur qui fait un jet.
 L'option _global_ permet d'envoyer le message du roll à tous les joueurs connectés du serveur.
 
 Les critiques (succes et echec) sont uniquement disponible lors de jet de dé 20.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/2a70fb64-2741-4d76-b0a0-051472657020)
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/66d81c15-b77f-40cb-86ad-5e27f7121ec3)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/08d8b95e-4398-45ce-8c30-4e6b2838783e)
 
 Lorsque le joueur lance plusieurs dés simulanément avec un bonus/malus, celui-ci sera appliqué uniquement sur le premier jet sauf en cas d'echec ou succes critique.
-![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/b2472610-7af2-4484-8f1b-9161abcaafdf)
+![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/4e1012a4-7b3d-49de-9998-b823bf8cfed1)
 ![image](https://github.com/DamienEvrard/DiceRollerPluginMinecraft/assets/55134961/92f8d5b1-7257-4c65-8484-6922545c39bb)
 
 
